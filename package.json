@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/LTUC/prep-challenges#readme",
   "dependencies": {
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "test": "^0.6.0"
   }
 }
